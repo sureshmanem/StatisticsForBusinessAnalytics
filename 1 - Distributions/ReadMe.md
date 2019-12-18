@@ -8,3 +8,15 @@ What is Distribution? It is a mathematical function.
 [![WhatIsADistribution](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/WhatIsADistribution.png "WhatIsADistribution")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/WhatIsADistribution.png "WhatIsADistribution")
 
 [![Standard Deviation](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/StandardDeviation.png "Standard Deviation")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/StandardDeviation.png "Standard Deviation")
+
+[![Normal Distribution](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/NormalDistribution.png "Normal Distribution")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/NormalDistribution.png "Normal Distribution")
+
+[![Skewness](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/Skewness.png "Skewness")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/Skewness.png "Skewness")
+
+[![MeanMedianMode](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/MeanMedianMode.png "MeanMedianMode")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/MeanMedianMode.png "MeanMedianMode")
+
+[![CantorsDiagonalArgument](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/CantorsDiagonalArgument.png "CantorsDiagonalArgument")](https://github.com/Zurezh/StatisticsForBusinessAnalytics/blob/master/1%20-%20Distributions/Images/CantorsDiagonalArgument.png "CantorsDiagonalArgument")
+
+In Excel Use
+	- NORM.INV(RAND(),69.1,2.9)
+  - NORM.INV(RAND(),MEAN,STD.DEV)
